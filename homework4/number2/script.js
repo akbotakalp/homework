@@ -7,3 +7,4 @@ function factorial(n) {
 }
 let n = +prompt()
 console.log(factorial(n));
+

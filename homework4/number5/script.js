@@ -21,3 +21,4 @@ var temp = 0;
  } 
 
  isPerfect(number)
+ 

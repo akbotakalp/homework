@@ -12,3 +12,4 @@ function rectangle(a, b) {
 let a = +prompt()
 let b = +prompt()
 console.log(rectangle(a,b));
+

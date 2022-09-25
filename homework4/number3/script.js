@@ -5,3 +5,4 @@ function num() {
     return a+b+c
 }
 console.log(num());
+
