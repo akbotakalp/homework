@@ -9,3 +9,4 @@ let res = sum / arr.length
 console.log(res);
 }
 a();
+
